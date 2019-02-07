@@ -6,3 +6,5 @@ time it takes in that place.
 
 First, a JSon file is consulted to obtain the identifier of the city.
 With the identifier, we send a query to an API that returns a JSon with the necessary information to know the time.
+
+Only works in a Android platform.
